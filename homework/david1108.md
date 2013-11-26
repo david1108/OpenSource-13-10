@@ -200,9 +200,9 @@ ownCloud此前得到了General Catalyst的资金支持。
 
 ## 3、结合自身需要评估后的结论 ##
 
-&emsp;&emsp;公司准备采用一款开源项目搭建一个私有云存储，经过评估，一致认为Seafile更符合国人的操作习惯，更能也比较强大，另外对手机(Android、IOS)的支持较好。
+&emsp;&emsp;公司准备采用一款开源项目搭建一个私有云存储，经过评估，一致认为Seafile更符合国人的操作习惯，功能也比较强大，另外对手机(Android、IOS)的支持较好。
 
-
+ 
 ## 4、参考资料 ##
 
 https://seacloud.cc/group/3/wiki/%E4%B8%93%E4%B8%9A%E7%89%88%E4%BB%8B%E7%BB%8D/
